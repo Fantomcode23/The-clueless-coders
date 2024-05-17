@@ -6,7 +6,7 @@ The proposed system for predicting and monitoring episodes of Parkinson's diseas
 This system uses wearable sensors to collect data and monitor the patient.
 
 Technology stack :-
-Python and its libraries like scikit-learn , numpy, pandas and matplotlib,smtplib
-Supervised learning(logistic regression)
-Explainable AI(SHAP explanations)
-User Interface(html,css,Java script)
+Python and its libraries like scikit-learn , numpy, pandas and matplotlib,smtplib.
+ Supervised learning(logistic regression).
+ Explainable AI(SHAP explanations).
+ User Interface(html,css,Java script).
